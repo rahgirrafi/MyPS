@@ -1,0 +1,3 @@
+[submodule "external/JFXCalendar"]
+	path = external/JFXCalendar
+	url = https://github.com/JKostikiadis/JFXCalendar.git
